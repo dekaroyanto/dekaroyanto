@@ -1,3 +1,4 @@
+![logo](https://github.com/dekaroyanto/dekaroyanto/blob/main/banergithub.png)
 <h1 align="center">Hi 👋, I'm Deka Royanto</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
