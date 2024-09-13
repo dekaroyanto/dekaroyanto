@@ -8,7 +8,7 @@
 
 - 🔭 Currently I am studying at [General Soedirman University](https://unsoed.ac.id/id/beranda)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs** & **ExpressJs**
 
 - 📫 How to reach me **dekaroy05@gmail.com**
 
